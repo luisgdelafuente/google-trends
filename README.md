@@ -1,5 +1,6 @@
 Testing Google Trends
 
+Geo data /luisgdelafuente/google-trends/geo terms.ipynb
 
 
 RESOURCES
