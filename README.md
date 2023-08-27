@@ -1,6 +1,8 @@
 Testing Google Trends
 
-Geo data [/](https://github.com/luisgdelafuente/google-trends/geo_terms.ipynb)
+Geographical analysis
+Finding the geo distribution of search terms, graphical analysis with Cloropleth
+https://github.com/luisgdelafuente/google-trends/blob/main/geographical.ipynb
 
 
 TIME
