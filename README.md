@@ -1,6 +1,6 @@
 Testing Google Trends
 
-Geo data [/](https://github.com/luisgdelafuente/google-trends/geo terms.ipynb)
+Geo data [/](https://github.com/luisgdelafuente/google-trends/geo_terms.ipynb)
 
 
 TIME
