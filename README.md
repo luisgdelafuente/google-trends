@@ -5,6 +5,11 @@ Finding the geo distribution of search terms, graphical analysis with Cloropleth
 https://github.com/luisgdelafuente/google-trends/blob/main/geographical.ipynb
 
 
+Pending: 
+- Real time analysis 
+- Fix the 429 error, official API
+ 
+
 TIME
 
 Current Time Minus Time Pattern:
